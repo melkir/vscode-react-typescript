@@ -32,6 +32,7 @@ Below is a list of all available snippets and the triggers of each one. The **�
 | `tsrsf→` | `class component skeleton with Props, State, and constructor` |
 | `tsrpc→` | `class purecomponent skeleton`                                |
 | `tsrsl`  | `stateless component`                                         |
+| `tsrrd→` | `react redux container skeleton`                              |
 | `conc→`  | `class default constructor with props and context`            |
 | `cwm→`   | `componentWillMount method`                                   |
 | `ren→`   | `render method`                                               |
@@ -46,7 +47,6 @@ Below is a list of all available snippets and the triggers of each one. The **�
 | `sst→`   | `this.setState with object as parameter`                      |
 | `bnd→`   | `binds the this of method inside the constructor`             |
 | `met→`   | `simple method`                                               |
-| `tsrrd→` | `react redux container skeleton`                              |
 | `imt`    | `create a import`                                             |
 
 ## License

@@ -17,7 +17,7 @@
       "  }",
       "}",
       "",
-      "export default class ${1:}",
+      "export default ${1:}",
       ""
     ],
     "description": "Create a React Component with typescript."
@@ -45,7 +45,7 @@
       "  }",
       "}",
       "",
-      "export default class ${1:}",
+      "export default ${1:}",
       ""
     ],
     "description":
@@ -69,7 +69,7 @@
       "  }",
       "}",
       "",
-      "export default class ${1:}",
+      "export default ${1:}",
       ""
     ],
     "description": "Create a React PureComponent."

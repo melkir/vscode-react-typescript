@@ -1,3 +1,5 @@
+Thanks infeng for these snippets, I'm changing them to fit my need ;)
+
 # vscode-react-typescript
 
 -------------------
@@ -24,31 +26,28 @@ Alternatively you can open the extensions panel and search for 'Typescript React
 
 Below is a list of all available snippets and the triggers of each one. The **⇥** means the `TAB` key.
 
-| Trigger  | Content |
-| -------: | ------- |
-| `tsrcc→` | `class component skeleton` |
-| `tsrcfull→` | `class component skeleton with Props, State, and constructor` |
-| `tsrcjc→`| `class component skeleton without import and default export lines` |
-| `tsrpcc→`| `class purecomponent skeleton` |
-| `tsrpcjc→` | `class purecomponent without import and default export lines` |
-| `tsrpfc` | `pure function component skeleton` |
-| `tsrsfc` | `stateless functional component` |
-| `conc→`  | `class default constructor with props and context` |
-| `cwm→`   | `componentWillMount method` |
-| `ren→`   | `render method` |
-| `cdm→`   | `componentDidMount method` |
-| `cwrp→`   | `componentWillReceiveProps method` |
-| `scu→`   | `shouldComponentUpdate method` |
-| `cwu→`  | `componentWillUpdate method` |
-| `cdu→`  | `componentDidUpdate method` |
-| `cwum→`  | `componentWillUnmount method` |
-| `gdsfp→` | `getDerivedStateFromProps method` |
-| `gsbu` | `getSnapshotBeforeUpdate method` |
-| `sst→`   | `this.setState with object as parameter` |
-| `bnd→`   | `binds the this of method inside the constructor` |
-| `met→`   | `simple method` |
-| `tscntr→` | `react redux container skeleton` |
-| `imt`    |  `create a import` |
+| Trigger  | Content                                                       |
+| -------: | ------------------------------------------------------------- |
+| `tsr→`   | `class component skeleton`                                    |
+| `tsrsf→` | `class component skeleton with Props, State, and constructor` |
+| `tsrpc→` | `class purecomponent skeleton`                                |
+| `tsrsl`  | `stateless component`                                         |
+| `conc→`  | `class default constructor with props and context`            |
+| `cwm→`   | `componentWillMount method`                                   |
+| `ren→`   | `render method`                                               |
+| `cdm→`   | `componentDidMount method`                                    |
+| `cwrp→`  | `componentWillReceiveProps method`                            |
+| `scu→`   | `shouldComponentUpdate method`                                |
+| `cwu→`   | `componentWillUpdate method`                                  |
+| `cdu→`   | `componentDidUpdate method`                                   |
+| `cwum→`  | `componentWillUnmount method`                                 |
+| `gdsfp→` | `getDerivedStateFromProps method`                             |
+| `gsbu`   | `getSnapshotBeforeUpdate method`                              |
+| `sst→`   | `this.setState with object as parameter`                      |
+| `bnd→`   | `binds the this of method inside the constructor`             |
+| `met→`   | `simple method`                                               |
+| `tsrrd→` | `react redux container skeleton`                              |
+| `imt`    | `create a import`                                             |
 
 ## License
 
